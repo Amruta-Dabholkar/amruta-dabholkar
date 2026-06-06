@@ -108,19 +108,12 @@ skills = {
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://stats.dooboo.io/api/github-stats-advanced?login=Amruta-Dabholkar"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amruta-Dabholkar&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
+## 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amruta-Dabholkar&theme=tokyo-night&hide_border=true"/>
 </p>
+
 ---
 
 ## 🌱 Currently Working On
