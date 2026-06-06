@@ -111,12 +111,16 @@ skills = {
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amruta-Dabholkar&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amruta-Dabholkar&theme=tokyonight&hide_border=true" width="48%"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amruta-Dabholkar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amruta-Dabholkar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amruta-Dabholkar&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Amruta-Dabholkar&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amruta-Dabholkar&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
