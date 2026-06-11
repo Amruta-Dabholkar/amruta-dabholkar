@@ -60,7 +60,7 @@ skills = {
 
 > A full-stack GenAI web app that transforms any textbook PDF into an intelligent, interactive study experience
 
-**Tech:** `Python` `Flask` `Groq API (LLaMA 3.3 70B)` `MySQL (Aiven Cloud)` `PyPDF2` `bcrypt` `PythonAnywhere`
+**Tech:** `Python` `Flask` `Groq API (LLaMA 3.3 70B)` `MySQL (Aiven Cloud)` `PyPDF2` `bcrypt` `Render`
 
 | Feature | Description |
 |---------|-------------|
