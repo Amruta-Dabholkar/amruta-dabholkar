@@ -47,7 +47,7 @@ skills = {
     "AI & LLMs"          : ["Groq API", "LLaMA 3.3 70B", "Prompt Engineering"],
     "Data Science"       : ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Plotly"],
     "ML & Stats"         : ["Scikit-Learn", "Scipy", "Statistical Tests", "EDA"],
-    "Deployment"         : ["PythonAnywhere", "Aiven Cloud MySQL"],
+    "Deployment"         : ["Render", "Aiven Cloud MySQL"],
     "Currently Learning" : ["ML Algorithms", "Deep Learning", "Gen AI"]
 }
 ```
