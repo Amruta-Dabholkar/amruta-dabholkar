@@ -47,7 +47,7 @@ skills = {
     "AI & LLMs"          : ["Groq API", "LLaMA 3.3 70B", "Prompt Engineering"],
     "Data Science"       : ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Plotly"],
     "ML & Stats"         : ["Scikit-Learn", "Scipy", "Statistical Tests", "EDA"],
-    "Deployment"         : ["Render", "Aiven Cloud MySQL"],
+    "Deployment"         : ["PythonAnywhere", "Aiven Cloud MySQL"],
     "Currently Learning" : ["ML Algorithms", "Deep Learning", "Gen AI"]
 }
 ```
@@ -60,7 +60,7 @@ skills = {
 
 > A full-stack GenAI web app that transforms any textbook PDF into an intelligent, interactive study experience
 
-**Tech:** `Python` `Flask` `Groq API (LLaMA 3.3 70B)` `MySQL (Aiven Cloud)` `PyPDF2` `bcrypt` `Render`
+**Tech:** `Python` `Flask` `Groq API (LLaMA 3.3 70B)` `MySQL (Aiven Cloud)` `PyPDF2` `bcrypt` `PythonAnywhere`
 
 | Feature | Description |
 |---------|-------------|
@@ -77,9 +77,16 @@ skills = {
 > End-to-end analysis of IPL cricket data using Pandas, Matplotlib & Seaborn
 - Team performance visualization, season-wise trends & top scorers
 
-### 🤖 [ML Part 1 — Insurance EDA & Preprocessing](https://github.com/Amruta-Dabholkar/ml-journey/tree/main/ML%20PART%201)
-> Feature engineering, encoding, scaling & selection on insurance dataset
-- Pearson Correlation & Chi-Squared feature selection, StandardScaler
+### 🤖 [ML Journey — Parts 1 to 4 (Complete)](https://github.com/Amruta-Dabholkar/ml-journey) &nbsp; ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat)
+
+> A complete end-to-end Machine Learning journey across 4 parts — from raw data to trained models
+
+| Part | Focus |
+|------|-------|
+| 🔹 ML Part 1 | Insurance EDA, Feature Engineering, Encoding, Scaling & Chi-Squared / Pearson Feature Selection |
+| 🔹 ML Part 2 | Supervised Learning — Regression & Classification algorithms |
+| 🔹 ML Part 3 | Model Evaluation, Cross-Validation, Hyperparameter Tuning |
+| 🔹 ML Part 4 | Advanced ML — Ensemble Methods, Pipelines & Final Model Deployment |
 
 ### 📊 [Statistical Tests Collection](https://github.com/Amruta-Dabholkar/ml-journey/tree/main/Stats)
 > Hands-on statistical hypothesis testing — T-Test, Z-Test, ANOVA, Chi-Square on real datasets
@@ -98,11 +105,12 @@ skills = {
 
 | # | Certificate | Issuer | Date |
 |---|-------------|--------|------|
-| 1 | 📊 Data Analytics Job Simulation | Deloitte × Forage | June 2026 |
-| 2 | 🤖 Claude 101 | Anthropic | 2026 |
-| 3 | 🚁 Drone Systems & AI/ML for Drone Vision | IIT Goa × MeitY | Jan 2026 |
-| 4 | 💻 Data Science & Analytics | HP LIFE × HP Foundation | June 2025 |
-| 5 | 💼 Develop Your Brand Using Social Media | IBM SkillsBuild | Dec 2024 |
+| 1 | 🤖 GenAI Powered Data Analytics Job Simulation | TATA × Forage | June 2026 |
+| 2 | 🧠 Artificial Intelligence — NextGen Scholar Program | Lenovo LEAP × BharatCares × Skill India | May 2026 |
+| 3 | 🤖 Claude 101 | Anthropic | 2026 |
+| 4 | 🚁 Drone Systems & AI/ML for Drone Vision | IIT Goa × MeitY | Jan 2026 |
+| 5 | 💻 Data Science & Analytics | HP LIFE × HP Foundation | June 2025 |
+| 6 | 💼 Develop Your Brand Using Social Media | IBM SkillsBuild | Dec 2024 |
 
 📁 [View all certificates](./certificates/)
 
@@ -119,7 +127,7 @@ skills = {
 ## 🌱 Currently Working On
 
 - 🧞 Improving EduGenie with new features
-- 🤖 Machine Learning algorithms — Parts 2, 3, 4
+- ✅ Machine Learning Journey — Parts 1–4 **Completed!**
 - 🧠 Generative AI — Lenovo LEAP Internship
 - 🟩 Pushing to GitHub every single day
 - 📝 Documenting my journey on LinkedIn
