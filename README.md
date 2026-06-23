@@ -106,11 +106,12 @@ skills = {
 | # | Certificate | Issuer | Date |
 |---|-------------|--------|------|
 | 1 | 🤖 GenAI Powered Data Analytics Job Simulation | TATA × Forage | June 2026 |
-| 2 | 🧠 Artificial Intelligence — NextGen Scholar Program | Lenovo LEAP × BharatCares × Skill India | May 2026 |
-| 3 | 🤖 Claude 101 | Anthropic | 2026 |
-| 4 | 🚁 Drone Systems & AI/ML for Drone Vision | IIT Goa × MeitY | Jan 2026 |
-| 5 | 💻 Data Science & Analytics | HP LIFE × HP Foundation | June 2025 |
-| 6 | 💼 Develop Your Brand Using Social Media | IBM SkillsBuild | Dec 2024 |
+| 2 | 📊 Data Analytics Job Simulation | Deloitte × Forage | June 2026 |
+| 3 | 🧠 Artificial Intelligence — NextGen Scholar Program | Lenovo LEAP × BharatCares × Skill India | May 2026 |
+| 4 | 🤖 Claude 101 | Anthropic | 2026 |
+| 5 | 🚁 Drone Systems & AI/ML for Drone Vision | IIT Goa × MeitY | Jan 2026 |
+| 6 | 💻 Data Science & Analytics | HP LIFE × HP Foundation | June 2025 |
+| 7 | 💼 Develop Your Brand Using Social Media | IBM SkillsBuild | Dec 2024 |
 
 📁 [View all certificates](./certificates/)
 
