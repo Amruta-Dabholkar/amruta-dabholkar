@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Aspiring Data Scientist & AI Engineer | 3rd Year Computer Engineering Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A0DAD&center=true&vCenter=true&width=600&lines=Data+Science+%7C+Machine+Learning+%7C+Gen+AI;Built+%26+Deployed+PitchIQ+--+Weather-Aware+Cricket+ML;Built+%26+Deployed+EduGenie+--+AI+Study+Companion;Lenovo+LEAP+Gen+AI+Intern;Building+in+public+one+commit+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A0DAD&center=true&vCenter=true&width=800&lines=Data+Science+%7C+Machine+Learning+%7C+Gen+AI;Built+and+Deployed+PitchIQ;Built+and+Deployed+EduGenie;Lenovo+LEAP+Gen+AI+Intern;Building+in+public+every+single+day" alt="Typing SVG" />
 </p>
 
 ---
