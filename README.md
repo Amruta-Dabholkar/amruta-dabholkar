@@ -118,7 +118,7 @@ skills = {
 | Role | Organization | Duration |
 |------|-------------|----------|
 | 🤖 Generative AI & Agentic Systems Intern | Lenovo LEAP Program | June 2026 – Present |
-| 📊 Data Science Intern | Cognifyz Technologies | 2026 |
+| 📊 Data Science Intern | Cognifyz Technologies | June 2026 – Present |
 
 ---
 
