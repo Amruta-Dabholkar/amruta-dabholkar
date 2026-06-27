@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Aspiring Data Scientist & AI Engineer | 3rd Year Computer Engineering Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A0DAD&center=true&vCenter=true&width=600&lines=Data+Science+%7C+Machine+Learning+%7C+Gen+AI;Built+%26+Deployed+PitchIQ+%F0%9F%8F%8F+—+Weather-Aware+Cricket+ML;Built+%26+Deployed+EduGenie+%F0%9F%A7%9E+—+AI+Study+Companion;Lenovo+LEAP+Gen+AI+Intern+%F0%9F%92%BC;Building+in+public+one+commit+at+a+time+%F0%9F%9F%A9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A0DAD&center=true&vCenter=true&width=600&lines=Data+Science+%7C+Machine+Learning+%7C+Gen+AI;Built+%26+Deployed+PitchIQ+—+Weather-Aware+Cricket+ML;Built+%26+Deployed+EduGenie+—+AI+Study+Companion;Lenovo+LEAP+Gen+AI+Intern;Building+in+public+one+commit+at+a+time" alt="Typing SVG" />
 </p>
 
 ---
@@ -50,7 +50,7 @@ skills = {
     "AI & LLMs"          : ["Groq API", "LLaMA 3.3 70B", "Prompt Engineering"],
     "Data Science"       : ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Plotly"],
     "ML & Stats"         : ["Scikit-Learn", "XGBoost", "Scipy", "Statistical Tests", "EDA"],
-    "Deployment"         : ["Streamlit Cloud", "PythonAnywhere", "Aiven Cloud MySQL"],
+    "Deployment"         : ["Streamlit Cloud", "Render", "Aiven Cloud MySQL"],
     "Currently Learning" : ["ML Algorithms", "Deep Learning", "Gen AI"]
 }
 ```
@@ -80,7 +80,7 @@ skills = {
 
 > A full-stack GenAI web app that transforms any textbook PDF into an intelligent, interactive study experience
 
-**Tech:** `Python` `Flask` `Groq API (LLaMA 3.3 70B)` `MySQL (Aiven Cloud)` `PyPDF2` `bcrypt` `PythonAnywhere`
+**Tech:** `Python` `Flask` `Groq API (LLaMA 3.3 70B)` `MySQL (Aiven Cloud)` `PyPDF2` `bcrypt` `Render`
 
 | Feature | Description |
 |---------|-------------|
