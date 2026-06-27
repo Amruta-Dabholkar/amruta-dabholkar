@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Aspiring Data Scientist & AI Engineer | 3rd Year Computer Engineering Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A0DAD&center=true&vCenter=true&width=600&lines=Data+Science+%7C+Machine+Learning+%7C+Gen+AI;Built+%26+Deployed+EduGenie+%F0%9F%A7%9E+—+AI+Study+Companion;Lenovo+LEAP+Gen+AI+Intern+%F0%9F%92%BC;Building+in+public+one+commit+at+a+time+%F0%9F%9F%A9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A0DAD&center=true&vCenter=true&width=600&lines=Data+Science+%7C+Machine+Learning+%7C+Gen+AI;Built+%26+Deployed+PitchIQ+%F0%9F%8F%8F+—+Weather-Aware+Cricket+ML;Built+%26+Deployed+EduGenie+%F0%9F%A7%9E+—+AI+Study+Companion;Lenovo+LEAP+Gen+AI+Intern+%F0%9F%92%BC;Building+in+public+one+commit+at+a+time+%F0%9F%9F%A9" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,8 +11,9 @@
 
 - 🎓 3rd Year **Computer Engineering** student at **YBIT, Sawantwadi** | CGPA: **8.50**
 - 🤖 Currently interning at **Lenovo LEAP Gen AI Program**
+- 📊 Data Science Intern at **Cognifyz Technologies**
+- 🏏 Built & deployed **PitchIQ** — a weather-aware cricket match predictor powered by XGBoost
 - 🧞 Built & deployed **EduGenie** — a full-stack GenAI web app powered by LLaMA 3.3
-- 📊 Passionate about **Data Science, Machine Learning & Generative AI**
 - 🌱 Currently learning **ML algorithms, Deep Learning & LLMs**
 - 🌍 Building in public, one commit at a time 🟩
 
@@ -29,6 +30,8 @@
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-EC6B2B?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/Groq-LLaMA_3.3-FF6600?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
@@ -46,8 +49,8 @@ skills = {
     "Backend"            : ["Flask", "MySQL", "REST APIs", "bcrypt"],
     "AI & LLMs"          : ["Groq API", "LLaMA 3.3 70B", "Prompt Engineering"],
     "Data Science"       : ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Plotly"],
-    "ML & Stats"         : ["Scikit-Learn", "Scipy", "Statistical Tests", "EDA"],
-    "Deployment"         : ["PythonAnywhere", "Aiven Cloud MySQL"],
+    "ML & Stats"         : ["Scikit-Learn", "XGBoost", "Scipy", "Statistical Tests", "EDA"],
+    "Deployment"         : ["Streamlit Cloud", "PythonAnywhere", "Aiven Cloud MySQL"],
     "Currently Learning" : ["ML Algorithms", "Deep Learning", "Gen AI"]
 }
 ```
@@ -55,6 +58,23 @@ skills = {
 ---
 
 ## 🌟 Featured Projects
+
+### 🏏 [PitchIQ — Weather-Aware Cricket Predictor](https://github.com/Amruta-Dabholkar/PitchIQ) &nbsp; ![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat)
+
+> The first cricket prediction model to treat weather as an active player, not background noise
+
+**Tech:** `Python` `XGBoost` `Random Forest` `Streamlit` `Cricsheet.org` `Open-Meteo API`
+
+| Feature | Description |
+|---------|-------------|
+| 🌬️ Swing Score | Ball swing potential from humidity, cloud cover & wind speed |
+| 💧 Dew Probability Index | Evening dew impact on T20 chases |
+| 🏟️ Pitch Decay Factor | How pitch changes over the match based on heat & rainfall |
+| 📈 Results | Accuracy: 68.3% \| AUC: 0.738 \| +10.3% over no-weather baseline |
+
+🔗 **Live:** [pitchiq-ml.streamlit.app](https://pitchiq-ml.streamlit.app)
+
+---
 
 ### 🧞 [EduGenie — AI Study Companion](https://github.com/Amruta-Dabholkar/EduGenie) &nbsp; ![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat)
 
@@ -97,7 +117,8 @@ skills = {
 
 | Role | Organization | Duration |
 |------|-------------|----------|
-| 🚀 Gen AI Intern | Lenovo LEAP Program | June 2026 – Present |
+| 🤖 Gen AI Intern | Lenovo LEAP Program | June 2026 – Present |
+| 📊 Data Science Intern | Cognifyz Technologies | 2026 |
 
 ---
 
@@ -127,6 +148,7 @@ skills = {
 
 ## 🌱 Currently Working On
 
+- 🏏 Improving PitchIQ with more venues & player-level features
 - 🧞 Improving EduGenie with new features
 - ✅ Machine Learning Journey — Parts 1–4 **Completed!**
 - 🧠 Generative AI — Lenovo LEAP Internship
