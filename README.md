@@ -133,6 +133,7 @@ skills = {
 | 5 | 🚁 Drone Systems & AI/ML for Drone Vision | IIT Goa × MeitY | Jan 2026 |
 | 6 | 💻 Data Science & Analytics | HP LIFE × HP Foundation | June 2025 |
 | 7 | 💼 Develop Your Brand Using Social Media | IBM SkillsBuild | Dec 2024 |
+| 8 | [💼 Software Engineer Intern](https://www.hackerrank.com/certificates/8044a7aa4eaa) | HackerRank | June 2026 |
 
 📁 [View all certificates](./certificates/)
 
