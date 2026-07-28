@@ -10,8 +10,8 @@
 ## 👩‍💻 About Me
 
 - 🎓 3rd Year **Computer Engineering** student at **YBIT, Sawantwadi** | CGPA: **8.50**
-- 🤖 Currently interning at **Lenovo LEAP Gen AI Program**
-- 📊 Data Science Intern at **Cognifyz Technologies**
+- 🤖  **Former Intern at Lenovo LEAP Gen AI Program**
+- 📊 Former Data Science Intern at **Cognifyz Technologies**
 - 🏏 Built & deployed **PitchIQ** — a weather-aware cricket match predictor powered by XGBoost
 - 🧞 Built & deployed **EduGenie** — a full-stack GenAI web app powered by LLaMA 3.3
 - 🌱 Currently learning **ML algorithms, Deep Learning & LLMs**
@@ -117,8 +117,8 @@ skills = {
 
 | Role | Organization | Duration |
 |------|-------------|----------|
-| 🤖 Generative AI & Agentic Systems Intern | Lenovo LEAP Program | June 2026 – Present |
-| 📊 Data Science Intern | Cognifyz Technologies | June 2026 – Present |
+| 🤖 Generative AI & Agentic Systems Intern | Lenovo LEAP Program × BharatCares × Skill India | June 2026 – July 2026 |
+| 📊 Data Science Intern | Cognifyz Technologies | June 2026 – July 2026 |
 
 ---
 
@@ -135,6 +135,9 @@ skills = {
 | 7 | 💼 Develop Your Brand Using Social Media | IBM SkillsBuild | Dec 2024 |
 | 8 | [💼 Software Engineer Intern](https://www.hackerrank.com/certificates/8044a7aa4eaa) | HackerRank | June 2026 |
 | 9 | 🧠 Artificial Intelligence Fundamentals | IBM SkillsBuild | July 2026 |
+| 10 | 💼 Data Science Internship Completion | Cognifyz IT Solutions | July 2026 |
+| 11 | 💼 Generative AI & Agentic Systems Engineering Internship Completion | Lenovo LEAP × BharatCares × Skill India | July 2026 |
+
 
 📁 [View all certificates](./certificates/)
 
@@ -153,7 +156,7 @@ skills = {
 - 🏏 Improving PitchIQ with more venues & player-level features
 - 🧞 Improving EduGenie with new features
 - ✅ Machine Learning Journey — Parts 1–4 **Completed!**
-- 🧠 Generative AI — Lenovo LEAP Internship
+- 🧠 Generative AI 
 - 🟩 Pushing to GitHub every single day
 - 📝 Documenting my journey on LinkedIn
 
