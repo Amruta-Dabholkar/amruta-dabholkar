@@ -137,6 +137,8 @@ skills = {
 | 9 | 🧠 Artificial Intelligence Fundamentals | IBM SkillsBuild | July 2026 |
 | 10 | 💼 Data Science Internship Completion | Cognifyz IT Solutions | July 2026 |
 | 11 | 💼 Generative AI & Agentic Systems Engineering Internship Completion | Lenovo LEAP × BharatCares × Skill India | July 2026 |
+| 12 | 📊 AICTE \| IBM SkillsBuild Academic Internship — Data Analytics with AI | IBM SkillsBuild × BharatCares | Aug 2026 |
+| 13 | 🏅 Letter of Appreciation — University of Mumbai Youth Festival 2026 | Yashwantrao Bhonsale Institute of Technology | Aug 2026 |
 
 
 📁 [View all certificates](./certificates/)
